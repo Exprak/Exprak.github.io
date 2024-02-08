@@ -2,7 +2,7 @@
 
 ---
 title: "Pavlovia Datenanalyse"
-author: "Nele Kuhlmey"
+author: "Exprak"
 date: "2024-01-10"
 output: html_document
 ---
