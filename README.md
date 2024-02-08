@@ -13,7 +13,7 @@ output: html_document
 
 # set working directory:
 ```{r, eval = TRUE}
-setwd("/Users/haraldsondhof/Documents/ExPrak/Auswertung")
+setwd("/Documents/ExPrak/Auswertung")
 
 ```
 
